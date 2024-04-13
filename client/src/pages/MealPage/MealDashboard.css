@@ -1,0 +1,36 @@
+.md_main{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.md_h{
+    margin-top: 20px;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 600;
+
+}
+
+.md_con{
+    display: flex;
+   
+}
+
+.md_nav{
+    margin-top: 50px;
+        font-size: larger;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-weight: 400;
+}
+
+.md_hr{
+    /* box-shadow: 1px 1px 1px 1px silver; */
+}
+
+.md_data{
+    display: flex;
+}
+
+.md_cal{
+    margin-left: 45px;
+}

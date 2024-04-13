@@ -1,0 +1,14 @@
+.cc_character{
+    display: flex;
+    width: 500px;
+    height: 750px;
+    gap: 50px;
+}
+
+/* onMouseEnter= {
+    handleHover
+}
+
+onMouseLeave= {
+    ()=>setColor("silver")
+} */

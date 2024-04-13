@@ -1,0 +1,54 @@
+/* OC_Final.scss */
+
+.oc-final-container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+.username {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.weight-info {
+    margin-top: 10px;
+}
+
+.bmi-info {
+    margin-top: 10px;
+}
+
+.bmr-info {
+    margin-top: 10px;
+}
+
+.calories-info {
+    margin-top: 10px;
+}
+
+.macros-info {
+    margin-top: 10px;
+}
+
+.recommended-blogs {
+    margin-top: 10px;
+}
+
+.recommended-blog-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.recommended-blog-item {
+    margin-bottom: 5px;
+}
+
+.recommended-blog-link {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.recommended-blog-link:hover {
+    text-decoration: underline;
+}

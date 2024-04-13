@@ -1,0 +1,87 @@
+.oc_ud {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+    position: relative;
+    /* background-color: #f0f0f0; */
+}
+
+.oc_ud_div_oc_2 {
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 80%;
+    position: relative;
+}
+
+.oc_ud>img {
+    width: 300px;
+    height: 300px;
+    /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 10px 20px rgba(0, 0, 0, 0.3) inset; */
+    margin-top: 20px;
+}
+
+.oc_ld {
+    position: absolute;
+    bottom: 50px;
+    /* Adjust as needed */
+    right: 50px;
+    /* Adjust as needed */
+    text-align: right;
+    /* Align button to the right */
+}
+
+.oc_ld>button {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.oc_ld>button:hover {
+    background-color: #45a049;
+}
+
+.oc_hr {
+    margin-top: 20px;
+    width: 100%;
+}
+
+
+.oc_ud_div_oc_2 {
+    transition: all 0.5s ease;
+}
+
+.oc_ud_div_oc_2.slide-out {
+    transform: translate(-100%, -70%);
+}
+
+.oc_ud img {
+    /* Your existing styles */
+    transition: all 0.5s ease;
+    /* Add a transition for smooth animation */
+}
+
+.oc_ud img.slide-out {
+    transform: translate(-200%, -100%);
+    width: 200px;
+    height: 200px;
+
+}
+
+.oc_inp_field{
+    transform: translate(400%,-600%);
+    background-color: #f0f0f0;
+        border-radius: 10px;
+        padding: 20px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        max-width: 80%;
+        position: absolute;
+}

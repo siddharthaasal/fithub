@@ -1,0 +1,14 @@
+.oc1_main_con{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    align-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: auto;
+}
+
+.oc1_main_con>img{
+    width: 400px;
+    height: 400px;
+}

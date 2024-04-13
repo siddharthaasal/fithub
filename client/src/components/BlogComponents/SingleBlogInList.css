@@ -1,0 +1,40 @@
+.sbil_main_con{
+    /* align-items: center; */
+    /* justify-content: center; */
+    margin: 0;
+    /* margin-top: 30px; */
+    margin-top: 0;
+    display: flex;
+    max-width: 90%;
+
+    gap: 25px;
+}
+
+
+.sbil_main_img{
+    width: 450px;
+    height: 300px;
+}
+
+.sbil_writer_details{
+    display: flex;
+    gap: 20px;
+        margin-top: 30px;
+}
+
+#sbil_h1{
+    margin-top: 0;
+    text-align: justify;
+    font-size: 25px;
+}
+
+.sbil_writer_details_in>p{
+    margin: 0;
+    font-size: 18px;
+    /* margin-top: 5px; */
+}
+
+#sbil_main_blog_desc{
+    text-align: justify;
+    font-size: 16px;
+}

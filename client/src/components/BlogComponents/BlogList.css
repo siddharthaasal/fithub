@@ -1,0 +1,50 @@
+.blog-list-component {
+    display: block;
+    margin-bottom: 20px;
+    width: 450px;
+}
+
+.blog-list-img {
+    width: 475px;
+    height: 300px;
+    margin-right: 20px;
+}
+
+.blog-list-content {
+    flex: 1;
+}
+
+.blog-list-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.blog-list-desc {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 10px;
+}
+
+.blog-list-owner-desc {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0;
+    gap: 15px;
+}
+
+.blog-list-owner-name {
+    margin-right: 10px;
+    font-weight: bold;
+    margin: 0;
+   
+
+}
+
+.blog-list-posted-at{
+    margin: 0;
+}
+
+.blog-list-posted-at {
+    color: #666;
+}

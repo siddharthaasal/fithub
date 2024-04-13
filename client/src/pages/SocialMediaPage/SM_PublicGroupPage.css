@@ -1,0 +1,19 @@
+.SM-Filter-Bar{
+    
+}
+
+.sm-pub-grp-row{
+    display: flex;
+    gap: 25px;
+        margin-bottom: 10px;
+}
+
+.sm-pub-grp-main-con{
+    display: flex;
+    margin-top: 5rem;
+        margin-left: 6.81rem;
+        gap: 35px;
+}
+
+.sm-pub-grp-con{
+}

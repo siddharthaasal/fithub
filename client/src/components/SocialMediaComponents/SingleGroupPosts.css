@@ -1,0 +1,10 @@
+
+.main-pin-con{
+    max-width: 80%;
+    display: flex;
+    margin: 0 auto;
+}
+
+.pin-imag-par :hover{
+    scale: 1.5x;
+}

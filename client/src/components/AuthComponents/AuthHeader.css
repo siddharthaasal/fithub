@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+#header-title {
+    /* color: #fff; */
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+
+    font-size: 35px;
+}
+
+.header-container {
+    display: flex;
+    margin-top: 35px;
+
+}
+
+.header-quote {
+    display: flex;
+    margin-left: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.auth-header-icons {
+    display: flex;
+    position: relative;
+    margin-left: 550px;
+    /* margin-right: 10px; */
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+}
+
+.main-icon {
+    width: 30px;
+    height: 30px;
+}

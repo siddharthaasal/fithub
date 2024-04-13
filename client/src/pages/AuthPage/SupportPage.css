@@ -1,0 +1,33 @@
+.sup-con{
+    
+        /* margin: auto; */
+            /* display: grid; */
+            /* gap: 2rem; */
+            /* grid-auto-flow: row;
+            grid-template-rows: auto 1fr auto; */
+            max-width: 1000px;
+            min-height: 100vh;
+            padding: 2rem;
+            transition: padding-top .125s;
+            width: 100%;
+            z-index: 999;
+}
+
+.sup-page{
+        background-color: #323437;
+                    align-items: center;
+    }
+.sp-btns{
+    display: flex;
+}
+
+
+
+.main-box {
+
+    font-family: "Roboto Mono",
+        "Vazirmatn",
+        monospace;
+
+    
+}
